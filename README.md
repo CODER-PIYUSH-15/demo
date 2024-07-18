@@ -1,4 +1,4 @@
 # demo
 This is my first repository
 <br>
-Author - Piyush Priyam Prasad Gupta.
+Author - Piyush Priyam Prasad Gupta.(P3G)
